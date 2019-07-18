@@ -24,7 +24,7 @@ class Demo
 	      System.out.println();
 		}
 		if(a!=b)
-		{ 
+		{  
 	      System.out.println("a!=b");
 		}
 	}
