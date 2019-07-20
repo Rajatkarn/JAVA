@@ -25,5 +25,5 @@ class Demo
 	   b.input(02,"Tanya Kaur");
 	   a.show();
 	   b.show();
-	}
+	} 
 }
